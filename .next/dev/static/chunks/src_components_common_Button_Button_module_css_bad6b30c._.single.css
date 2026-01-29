@@ -1,0 +1,57 @@
+/* [project]/src/components/common/Button/Button.module.css [app-client] (css) */
+.Button-module__UbsrlW__button {
+  font-family: var(--font-family-primary);
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  font-weight: 500;
+  transition: all .2s;
+  display: inline-flex;
+}
+
+.Button-module__UbsrlW__primary {
+  background-color: var(--color-primary-main);
+  color: var(--color-primary-text);
+}
+
+.Button-module__UbsrlW__secondary {
+  color: var(--color-neutral-900);
+  border: 1px solid var(--color-neutral-900);
+  background-color: #fff;
+}
+
+.Button-module__UbsrlW__ghost {
+  color: var(--color-neutral-900);
+  background-color: #0000;
+}
+
+.Button-module__UbsrlW__offer {
+  color: #000;
+  background-color: #ffc107;
+}
+
+.Button-module__UbsrlW__login {
+  color: var(--color-neutral-900);
+  border: 1px solid var(--color-neutral-900);
+  background-color: #0000;
+}
+
+.Button-module__UbsrlW__small {
+  padding: 8px 16px;
+  font-size: 14px;
+}
+
+.Button-module__UbsrlW__medium {
+  padding: 12px 24px;
+  font-size: 16px;
+}
+
+.Button-module__UbsrlW__large {
+  padding: 16px 32px;
+  font-size: 18px;
+}
+
+/*# sourceMappingURL=src_components_common_Button_Button_module_css_bad6b30c._.single.css.map*/

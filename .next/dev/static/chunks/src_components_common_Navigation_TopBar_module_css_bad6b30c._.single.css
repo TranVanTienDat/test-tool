@@ -1,0 +1,37 @@
+/* [project]/src/components/common/Navigation/TopBar.module.css [app-client] (css) */
+.TopBar-module__JlQfDW__container {
+  background: #fff;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 20px 40px;
+  display: flex;
+}
+
+.TopBar-module__JlQfDW__logo {
+  color: var(--color-primary-main);
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.TopBar-module__JlQfDW__menu {
+  gap: 32px;
+  display: flex;
+}
+
+.TopBar-module__JlQfDW__link {
+  color: var(--color-neutral-900);
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.TopBar-module__JlQfDW__actions {
+  align-items: center;
+  gap: 16px;
+  display: flex;
+}
+
+/*# sourceMappingURL=src_components_common_Navigation_TopBar_module_css_bad6b30c._.single.css.map*/

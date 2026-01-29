@@ -1,0 +1,18 @@
+@import './tokens/colors.css';
+@import './tokens/typography.css';
+
+:root {
+  --spacing-unit: 4px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-family-primary);
+  background-color: var(--color-bg-default);
+  color: var(--color-neutral-900);
+}
+
+* {
+  box-sizing: border-box;
+}
