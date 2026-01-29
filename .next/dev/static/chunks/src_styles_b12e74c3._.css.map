@@ -1,8 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///Users/ttcenter/Documents/test-tool/src/styles/tokens/colors.css"],"sourcesContent":[":root {\n  /* Primary */\n  --color-primary-main: #7289da;\n  --color-primary-text: #ffffff;\n\n  /* Neutral */\n  --color-neutral-900: #403e3f;\n  --color-neutral-white: #ffffff;\n\n  /* Background */\n  --color-bg-default: #ffffff;\n  --color-bg-dark: #0b0121;\n}\n"],"names":[],"mappings":"AAAA"}},
-    {"offset": {"line": 11, "column": 0}, "map": {"version":3,"sources":["file:///Users/ttcenter/Documents/test-tool/src/styles/tokens/typography.css"],"sourcesContent":[":root {\n  /* Font Family */\n  --font-family-primary: 'Manrope', sans-serif;\n\n  /* Presets */\n  --font-size-body: 23px;\n  --font-weight-body: 400;\n  --line-height-body: 1em;\n  --letter-spacing-body: -1%;\n}\n"],"names":[],"mappings":"AAAA"}},
-    {"offset": {"line": 20, "column": 0}, "map": {"version":3,"sources":["file:///Users/ttcenter/Documents/test-tool/src/styles/globals.css"],"sourcesContent":["@import './tokens/colors.css';\n@import './tokens/typography.css';\n\n:root {\n  --spacing-unit: 4px;\n}\n\nbody {\n  margin: 0;\n  padding: 0;\n  font-family: var(--font-family-primary);\n  background-color: var(--color-bg-default);\n  color: var(--color-neutral-900);\n}\n\n* {\n  box-sizing: border-box;\n}\n"],"names":[],"mappings":"AAGA;;;;AAIA;;;;;;;;AAQA"}}]
-}

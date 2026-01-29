@@ -1,3 +1,0 @@
-:root{--color-primary-main:#7289da;--color-primary-text:#fff;--color-neutral-900:#403e3f;--color-neutral-white:#fff;--color-bg-default:#fff;--color-bg-dark:#0b0121}
-:root{--font-family-primary:"Manrope",sans-serif;--font-size-body:23px;--font-weight-body:400;--line-height-body:1em;--letter-spacing-body:-1%}
-:root{--spacing-unit:4px}body{font-family:var(--font-family-primary);background-color:var(--color-bg-default);color:var(--color-neutral-900);margin:0;padding:0}*{box-sizing:border-box}

@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/src/styles/tokens/colors.css"],"sourcesContent":[":root {\n  /* Primary */\n  --color-primary-main: #7289da;\n  --color-primary-text: #ffffff;\n\n  /* Neutral */\n  --color-neutral-900: #403e3f;\n  --color-neutral-white: #ffffff;\n\n  /* Background */\n  --color-bg-default: #ffffff;\n  --color-bg-dark: #0b0121;\n}\n"],"names":[],"mappings":"AAAA"}}]
-}
